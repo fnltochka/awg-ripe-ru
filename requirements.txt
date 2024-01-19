@@ -1,0 +1,4 @@
+netaddr==0.10.1
+Requests==2.31.0
+requests_cache==1.1.1
+rich==13.7.0
